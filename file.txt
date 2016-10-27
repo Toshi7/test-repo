@@ -1,3 +1,4 @@
 diff + This is fixing A function. This is B function.
 
 HELLO WORLD!
+HELLO WORLD!
